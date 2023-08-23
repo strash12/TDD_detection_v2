@@ -5,6 +5,8 @@ namespace PSS_generate
 pss::pss(){}
 pss::~pss(){}
 
+
+int huuui = 0;
 const xd
 pss::d_C_I = xd(0,1);
 
